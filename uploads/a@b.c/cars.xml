@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Cars>
+    <Vin>123456789ABCD</Vin>
+    <Make>Ford</Make>
+    <Year>2002</Year>
+    <Year_x0020_and_x0020_Make>2002 Ford</Year_x0020_and_x0020_Make>
+  </Cars>
+  <Cars>
+    <Vin>987654321XYZ</Vin>
+    <Make>Jeep</Make>
+    <Year>2002</Year>
+    <Year_x0020_and_x0020_Make>2002 Jeep</Year_x0020_and_x0020_Make>
+  </Cars>
+</DocumentElement>
